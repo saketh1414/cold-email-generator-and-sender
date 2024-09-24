@@ -10,7 +10,7 @@
 
 
 
-INSTRUCTIONS:
+INSTRUCTIONS:  
 1)create your conda virtural environment venv.  
 2)activate venv.  
 3)install all the packages present in requirements.txt  
@@ -25,4 +25,4 @@ INSTRUCTIONS:
 12)enter submit to generate and send email to the client.  
 
 See the video below for working...
-https://drive.google.com/file/d/1ep3R8NRJTAr91aXq-BCs1EEt0-grraDv/view?usp=sharing
+https://drive.google.com/file/d/13jqXUkYAfdLSILxv5VX0brUD85q9qHmT/view?usp=sharing
