@@ -6,7 +6,7 @@
 4) llama-3.1-70b-versatile llm is used to generate cold emails and Chroma DB is used to store saaki.ai's portfolio links.  
 5)the model produces the cold email giving the links to saaki.ai's portfolio in required software field, and showing ability of saaki.ai.  
 6)the model will generate as many cold emails as the job applications are present in provided url.so give specific job url.  
-7)the project will automatically send email to the clent after generating it.  
+7)the project will automatically send email to the client after generating it.  
 
 
 
